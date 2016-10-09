@@ -1,0 +1,16 @@
+# Texteditors
+*~
+*.swp
+*.bak
+*.tmp
+ 
+# Java
+build/
+*.class
+ 
+# Python
+*.pyc
+ 
+# C/C++
+*.so
+*.o
